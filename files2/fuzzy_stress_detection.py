@@ -1,12 +1,7 @@
 """
-============================================================
 APLIKASI DETEKSI TINGKAT STRESS MENGGUNAKAN LOGIKA FUZZY
 Metode: Mamdani
-Dibuat untuk: Pemula yang belajar Fuzzy Logic
-============================================================
 
-APA ITU LOGIKA FUZZY?
----------------------
 Logika fuzzy adalah cara komputer berpikir seperti manusia.
 Manusia biasa berkata "suhu AGAK panas" atau "detak jantung SANGAT cepat"
 Logika fuzzy meniru cara berpikir seperti itu menggunakan nilai 0.0 sampai 1.0
